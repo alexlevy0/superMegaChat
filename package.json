@@ -2,10 +2,10 @@
   "name": "super-chat",
   "version": "0.1.0",
   "dependencies": {
-    "express": "~3.3.4",
+    "express": "~4.15.5",
     "socket.io": "~1.2.1",
     "ent": "~0.1.0"
   },
-  "author": "Alexandre Lévy <alexlevy0@gmail.com>",
-  "description": "Un super Chat temps réel avec socket.io pour MeetnPlay"
+  "author": "Alexandre Lï¿½vy <alexlevy0@gmail.com>",
+  "description": "Un super Chat temps rï¿½el avec socket.io pour MeetnPlay"
 }
