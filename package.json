@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "dependencies": {
     "express": "~3.3.4",
-    "socket.io": "~1.2.1",
+    "socket.io": "~3.0.0",
     "ent": "~0.1.0"
   },
-  "author": "Alexandre Lévy <alexlevy0@gmail.com>",
-  "description": "Un super Chat temps réel avec socket.io pour MeetnPlay"
+  "author": "Alexandre Lï¿½vy <alexlevy0@gmail.com>",
+  "description": "Un super Chat temps rï¿½el avec socket.io pour MeetnPlay"
 }
